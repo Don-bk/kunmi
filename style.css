@@ -1,0 +1,211 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #deeaf3;
+    font-family: 'Times New Roman', Times, serif;
+}
+.box{
+    background-color: rgba(255, 255, 255, 0.815);
+    width: 450px;
+    height: 800px;
+    opacity: 0.8;
+    border-radius: 20px;
+    margin: 20px;
+}
+
+.wifi{
+    background-color: rgb(146, 142, 142);
+    opacity: 0.7;
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    border: none;
+}
+.mute{
+    background-color: rgb(146, 142, 142);
+    opacity: 0.7;
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    border: none;
+}
+.bluethoot{
+    background-color: rgb(146, 142, 142);
+    opacity: 0.7;
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    border: none;
+}
+.portrait{
+    background-color: rgb(146, 142, 142);
+    opacity: 0.7;
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    border: none;
+}
+.airplane{
+    background-color: rgb(146, 142, 142);
+    opacity: 0.7;
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    border: none;
+}
+.touch{
+    background-color: rgb(146, 142, 142);
+    opacity: 0.7;
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    border: none;
+}
+
+.devices{
+    width: 170px;
+    height: 30px;
+    border-radius: 10px;
+    border: none;
+}
+.media{
+    width: 170px;
+    height: 30px; 
+    border-radius: 10px;
+    border: none;  
+}
+.levelone{
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+}
+.nav{
+    height: 15px;
+    width: 15px;
+}
+.leveltwo{
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+}
+.levelthree{
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+}
+.levelfour{
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+}
+
+img{
+    width: 25px;
+}
+
+.up{
+    display: flex;
+    margin: 10px;
+}
+h4{
+    margin-right: 5px;
+    margin-left: 5px;
+}
+.down{
+    display: flex;
+    justify-content: space-between;
+}
+.right{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-right: 10px;
+    width: 100px;
+}
+.left{
+    display: flex;
+    margin: 10px;
+}
+.fuji{
+    width: 70px;
+    margin-right: 10px;
+    border-radius: 10px;
+}
+.Agbaby{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.levelfive{
+    background-color: rgb(173, 27, 27);
+    margin: 10px;
+    border-radius: 20px;
+    padding: 15px;
+}
+.levelsix{
+    margin: 10px;
+    background-color: rgb(211, 208, 208);
+    border-radius: 10px;
+    padding: 15px;
+    height: 80px;
+}
+.android{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+.leftandroid{
+    display: flex;
+    align-items: center;
+}
+p{
+    font-size: 12px;
+    margin: 5px;
+}
+.padlock{
+    width: 15px;
+    height: 15px;
+    margin-left: 5px;
+}
+.folder{
+    width: 15px;
+    height: 15px;
+}
+.email{
+    width: 15px;
+    height: 15px;
+    margin-left: 5px;
+}
+.set{
+    display: flex;
+    justify-content: end;
+    margin-right: 20px;
+}
+.clear{
+    margin-left: 20px;
+}
+
+.bottom{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+}
+.mtn{
+    color: rgb(146, 142, 142);
+}
+h3{
+    font-size: 15px;
+}
+footer{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+}
